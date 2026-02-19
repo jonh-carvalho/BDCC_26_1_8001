@@ -1,8 +1,8 @@
 ---
-repo_url: https://github.com/jonh-carvalho/CG_25.2_8001
+repo_url: https://github.com/jonh-carvalho/BDCC_26.1_8001
 site_author: Jonh Carvalho
-site_name: CG_25.2_8001
-copyright: Copyright ©️ 2025, Jonh Carvalho
+site_name: BDCC_26.1_8001
+copyright: Copyright ©️ 2026, Jonh Carvalho
 
 nav: 
   - Home: index.md
@@ -10,11 +10,9 @@ nav:
       - Aulas: Disciplina/aulas.md
       - Ambiente: Disciplina/ambiente.md
       - Notebook:
-          - RGB: Disciplina\docs\aula01\01_Explorando_Pixeis_e_o_Sistema_RGB.ipynb
-          - Vetores: Disciplina\docs\aula01\02_Imagens Matriciais vs Imagens Vetoriais.ipynb
-          - Rasterização: Disciplina\docs\aula04\rasteriza.ipynb
-          - Transformações Geométricas 2D: Disciplina\docs\aula05\Aula5.Ex1 - Transformação Geométrica (Exemplos em 2D).ipynb
-          - Transformações Geométricas 3D: Disciplina\docs\aula05\Aula5.Ex3 - Cubo - Transformação Geométrica 3D.ipynb
+        - Index: Disciplina/notebook/index.md
+        - Notebook 1: Disciplina/notebook/notebook1.md
+        - Notebook 2: Disciplina/notebook/notebook2.md
 
   - Avaliações:
       - AP1: Avalia/ap1.md
